@@ -1,4 +1,4 @@
-search_dash
+Search Dash (for v1.8.1 or earlier) - [DOWNLOAD](https://github.com/paulmolluzzo/search_dash/blob/master/Search%20Dash.alfredworkflow?raw=true)
 ===========
 
 Older versions of Dash (<1.8.2) apparently don't support Alfred 2 the way that it's used in [Will Farrel's Dash Workflow](https://github.com/willfarrell/alfred-dash-workflow). This is a workflow that should work, at least for Dash v1.8.1.
